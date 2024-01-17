@@ -262,7 +262,9 @@ class RemoveToyFromCat(APIView):
 
 ## 6. Lab Assignment
 
-Lab time is to be spent implementing the same feature in your Finch Collector project 🦜
+Lab time is to be spent implementing the same feature in your Finch Collector project 🦜. 
+
+> Note: If you had a little trouble following along with the catcollector walkthrough, please review the completed code included in this repository.
 
 ## 7. Further Study
 
