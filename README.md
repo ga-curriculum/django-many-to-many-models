@@ -139,7 +139,7 @@ and
 
 That is, when accessing a single cat we want to see a list of toys associated with the cat AND a list of unassociated toys.
 
-### Displaying a List of Associated Toys [TBU]
+### Displaying a List of Associated Toys
 
 Displaying a cat's toys is just a matter of updating the `Cat` serializer:
 
