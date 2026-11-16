@@ -17,7 +17,7 @@
 
 Many-to-many relationships require two existing data resources, i.e., two existing Models. For this lesson, we are going to associate a `Cat` Model with a `Toy` model.
 
-Thanks to the previous lesson, [Django Rep](https://git.generalassemb.ly/SEB-Base-Curriculum/django-rep), we can focus on how to implement the actual `Cat >--< Toy` relationship in this lesson.
+Thanks to the previous lesson, [Django Rep](https://github.com/ga-curriculum/django-rep), we can focus on how to implement the actual `Cat >--< Toy` relationship in this lesson.
 
 Let's set ourselves up for this lesson:
 
